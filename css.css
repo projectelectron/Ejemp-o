@@ -1,0 +1,14 @@
+	*{
+		margin: 0px;
+		padding: 0px;
+
+	}
+	section{
+		width: 1000px;
+		padding: 1em;
+	}
+	article{
+		padding: 1em;
+		text-align: justify;
+		background: floralwhite;
+	}
